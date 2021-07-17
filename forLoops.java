@@ -5,5 +5,7 @@ class forLoops{
             a=a+i;
         }
         System.out.println(a);
+        System.out.println("for loops understood");
+        System.out.println("for loops updated");
     }
 }
